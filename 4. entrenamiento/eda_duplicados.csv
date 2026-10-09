@@ -1,0 +1,5 @@
+﻿tipo,archivo,clase,particion,archivo_coincidente,clase_coincidente,particion_coincidente,entre_particiones,etiquetas_distintas,distancia
+bytes_exactos,test/RUSSET/704F3E54-250612-145719-5.RGB.tiff,RUSSET,test,train/PICADURA/704F3E54-250612-145719-5.RGB.tiff,PICADURA,train,True,True,
+bytes_exactos,train/PICADURA/704F3E54-250505-153013-0.RGB.tiff,PICADURA,train,validation/PICADURA/defecto.RGB.tiff,PICADURA,validation,True,False,
+pixeles_exactos,train/PICADURA/704F3E54-250505-153013-0.RGB.tiff,PICADURA,train,validation/PICADURA/defecto.RGB.tiff,PICADURA,validation,True,False,
+pixeles_exactos,test/RUSSET/704F3E54-250612-145719-5.RGB.tiff,RUSSET,test,train/PICADURA/704F3E54-250612-145719-5.RGB.tiff,PICADURA,train,True,True,

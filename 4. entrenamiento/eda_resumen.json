@@ -1,0 +1,49 @@
+{
+  "dataset": "../DATASET_PALTA",
+  "archivos": 829,
+  "imagenes": 829,
+  "legibles": 829,
+  "clases": [
+    "PICADURA",
+    "RUSSET"
+  ],
+  "conteos": {
+    "train": {
+      "PICADURA": 497,
+      "RUSSET": 77
+    },
+    "validation": {
+      "PICADURA": 107,
+      "RUSSET": 21
+    },
+    "test": {
+      "PICADURA": 106,
+      "RUSSET": 21
+    }
+  },
+  "razon_desbalance": 5.966386554621849,
+  "corruptas": 0,
+  "no_imagenes": 0,
+  "resoluciones": 822,
+  "copias_extra_bytes": 2,
+  "copias_extra_pixeles": 2,
+  "pares_exactos": 2,
+  "pares_exactos_entre_particiones": 2,
+  "candidatos_dhash": 0,
+  "candidatos_dhash_entre_particiones": 0,
+  "pares_exactos_etiquetas_distintas": 1,
+  "incidencias_calidad": 37,
+  "semilla": 42,
+  "umbral_dhash": 4,
+  "sha256_dataset": "97425b1ba327552b949961eeff19dd2d3f5d19b79ef67188252c28677f9540a1",
+  "python": "3.12.14",
+  "versiones": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2",
+    "Pillow": "12.3.0",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0",
+    "ipykernel": "7.4.0"
+  }
+}
